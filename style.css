@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: yellow;
+}
+
+img {
+  width: 200px;
+  border-radius: 100px;
+}
+
+h1 {
+  color: rgb(78, 4, 4);
+}
+
+h2 {
+  color: rgb(67, 7, 7);
+}/*# sourceMappingURL=style.css.map */
